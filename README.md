@@ -1,0 +1,1 @@
+This project focuses on data cleaning and exploratory data analysis (EDA) of a dataset. For demonstration, we use the Titanic dataset from Kaggle, but you can adapt this project for any dataset of your choice. This repository provides a comprehensive workflow for identifying data quality issues, cleaning the data, and exploring relationships, patterns, and trends.
